@@ -28,7 +28,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: giat1010@gmail.com
+- Phone: +972522291559
+- Phone (tel): tel:+972522291559
+- Address: נחמה 11, ירושלים, 9312111, ישראל
 
 ### Contact form
 - URL: https://example.com
