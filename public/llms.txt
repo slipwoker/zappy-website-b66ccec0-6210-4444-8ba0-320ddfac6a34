@@ -1,0 +1,66 @@
+# גיבורים בתוכנו — Generative Engine Optimization Map
+
+> A landing page focused on selling books. The business revolves around books as its core product, aiming to convert visitors into buyers through a compelling single-page experience.
+
+---
+
+## Pages
+
+### בית
+https://-b66ccec0.zappy5.app
+ספרים מעוררי השראה שמשנים חיים. הוצאה לאור עצמאית בקינדל שמביאה סיפורי גבורה יומיומית לכל בית. כנסו עכשיו וגלו את הגיבור שבכם במחיר השקה מיוחד.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b66ccec0.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b66ccec0.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b66ccec0.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-b66ccec0.zappy5.app
+- Endpoint: https://-b66ccec0.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About גיבורים בתוכנו
+A landing page focused on selling books. The business revolves around books as its core product, aiming to convert visitors into buyers through a compelling single-page experience.
+
+## Target Audience
+- מבוגרים צעירים מחפשי השראה
+- מורים ומחנכים
+- הורים לילדים חובבי קריאה
+
+## Industry
+Books & Publishing
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-b66ccec0.zappy5.app/sitemap.xml
+- Robots: https://-b66ccec0.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-b66ccec0.zappy5.app/llms-full.txt
